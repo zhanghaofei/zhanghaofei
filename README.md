@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-[![zhanghaofei's github stats](https://github-readme-stats.vercel.app/api?username=zhanghaofei&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![zhanghaofei's github stats](https://github-readme-stats.vercel.app/api?username=zhanghaofei&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
