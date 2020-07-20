@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,5 +11,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+:see_no_evil: 博客1：https://www.yuque.com/zhanghaofei/blog
+
+:see_no_evil: 博客2：https://my.oschina.net/watcher
 
 [![zhanghaofei's github stats](https://github-readme-stats.vercel.app/api?username=zhanghaofei&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
