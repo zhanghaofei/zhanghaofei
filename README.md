@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 
 [![zhanghaofei's github stats](https://github-readme-stats.vercel.app/api?username=zhanghaofei&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 
 ![image](https://github.com/zhanghaofei/zhanghaofei/blob/master/dino.gif)
+-->
